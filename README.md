@@ -1,5 +1,6 @@
 # Advanced-Computation
-This repository is a collection of Python scripts and visualizations that explore a variety of advanced computational concepts. From cryptography and algorithmic theory to graph algorithms, this repository aims to provide an interactive and educational resource for those interested in diving deeper into the world of advanced computation.
+This repository is a collection of Python scripts and visualizations that explore a variety of advanced computational concepts.
+this repository aims to provide an interactive and educational resource for those interested in diving deeper into the world of advanced computation.
 
 RSA encryption (EncryptionProcess.py)
 
