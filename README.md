@@ -15,8 +15,11 @@ Widely used concept in signal processing and other areas of science and engineer
 
 
 
-Hash-Table-Animation
+Hash-Table-Animation (HashFunction.py)
 
 visually demonstrates how hash functions work and illustrates collisions in hash tables through animation. The animation provides a user-friendly way to understand the basic principles behind hashing and its impact on data distribution and collisions.
+
+![image](https://github.com/Mistydoe033/Advanced-Computation-/assets/92670917/912acfa4-35a5-43c5-aba9-0f8adbe03954)
+
 
 
