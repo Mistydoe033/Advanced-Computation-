@@ -2,9 +2,7 @@
 This repository is a collection of Python scripts and visualizations that explore a variety of advanced computational concepts.
 this repository aims to provide an interactive and educational resource for those interested in diving deeper into the world of advanced computation.
 
-
-
-*RSA encryption (EncryptionProcess.py)*
+RSA encryption (EncryptionProcess.py)
 
 RSA encryption process using the Matplotlib library. The visualization simplifies the RSA encryption steps, key generation, encryption, and decryption, providing an educational overview of the process.
 
