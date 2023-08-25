@@ -23,3 +23,16 @@ visually demonstrates how hash functions work and illustrates collisions in hash
 
 
 
+Mandelbrot-Set (Mandelbrot.py)
+
+The Mandelbrot Set is a famous fractal in complex dynamics. This script generates the Mandelbrot Set by iterating through complex numbers and checking their behavior under the iterative process. It then uses the matplotlib library to visualize the Mandelbrot Set.
+
+This one takes a while to finish as its a complex computation
+
+![263127290-9fb4d3f1-713d-4708-97b7-9b0de01549d9](https://github.com/Mistydoe033/Advanced-Computation-/assets/92670917/043f1ffb-e058-4d01-8e81-18ddfb545287)
+
+Turing-complete-system-Rule-110 (TuringCompleteness_110.py)
+
+This repository contains a Python script that visualizes the behavior of the Rule 110 cellular automaton using matplotlib animations. The Rule 110 cellular automaton is a simple yet fascinating example of a Turing complete system, showcasing complex behavior arising from simple local rules.
+
+![263127081-689bee4a-4a3f-4398-91e5-575d09f407fa](https://github.com/Mistydoe033/Advanced-Computation-/assets/92670917/97610fa9-93f9-4093-8a88-e565095e77c0)
